@@ -21,7 +21,7 @@
     >
       <slot :name="handle"></slot>
     </div>
-    <slot></slot>
+    <!-- <slot></slot> -->
   </div>
 </template>
 
